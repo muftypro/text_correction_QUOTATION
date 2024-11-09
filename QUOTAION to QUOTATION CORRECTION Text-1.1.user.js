@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Edit Car Edit Page Text
+// @name         Quotation Text Corrector
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  Change specific text on car edit page
+// @description  Change specific text on car edit page by Mufty Pro
 // @author       Your Name
 // @match        https://salsabeelcars.site/*
 // @grant        none
